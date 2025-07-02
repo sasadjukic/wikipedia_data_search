@@ -1,7 +1,7 @@
 # wikipedia_data_search
 July 2025 Update:
 
-Testing some LLM workflows I converted this into a "Vibe Code" project. The proggram still crawls Wikipedia's data files with BeautifulSoup to find trends on Wikipedia's main website, but vibe coding added some features and tests
+Testing some LLM workflows, I converted this into a "Vibe Code" project. The program still crawls Wikipedia's data files with BeautifulSoup to find trends on Wikipedia's main website, but vibe coding added some features, error handling, and tests
 <br>
 
 <b>Basic steps the program executes are:</b>
@@ -16,6 +16,5 @@ Testing some LLM workflows I converted this into a "Vibe Code" project. The prog
 
 <b>NOTES</b>
 <br>
-- I used print statments for the command prompt to keep updating the user what exact file is beaing searched at the moment and how many searches the keyword has accrued so far
-- Wikipedia gets approximately 3-6 million searches evey hour and it takes about 10 minutes to search data for one full day on a good consumer PC<br>
-- Few of the many of hourly files I searched caused an error while reading. Due to me not being able to find what exactly causes the read error I used try/except to handle those files. Reading numbers from those files are not included in the total tally.
+- Wikipedia gets approximately 3-6 million searches evey hour and it takes about 10 minutes to search data for one full day on a really good consumer PC (30 mins on laptop)<br>
+
