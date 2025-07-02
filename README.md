@@ -1,6 +1,7 @@
 # wikipedia_data_search
+July 2025 Update:
 
-Crawling Wikipedia's data files with BeautifulSoup to find trends on Wikipedia's main website
+Testing some LLM workflows I converted this into a "Vibe Code" project. The proggram still crawls Wikipedia's data files with BeautifulSoup to find trends on Wikipedia's main website, but vibe coding added some features and tests
 <br>
 
 <b>Basic steps the program executes are:</b>
